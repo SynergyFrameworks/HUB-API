@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Hub.Transactions.WebAPI</id>
+    <version>1.0.0.0</version>
+    <title>Hub.Transactions.WebAPI</title>
+    <authors>APC</authors>
+    <owners>APC</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Hub.Transactions.WebAPI</description>
+  </metadata>
+</package>
